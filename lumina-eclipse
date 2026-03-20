@@ -1,0 +1,11 @@
+lumina-eclipse/
+├── src/
+│   ├── games/
+│   │   └── LuminaEclipse/
+│   │       ├── index.svelte          ← ton écran principal
+│   │       ├── reels.ts              ← logique rouleaux
+│   │       └── symbols.ts
+├── public/
+│   └── assets/                       ← tes images (soleil, lune, etc.)
+├── stake.json                        ← config du jeu
+└── package.json
